@@ -1,12 +1,12 @@
 /*
-Titulo: primerprograma con comentarios
+Titulo: primer programa con comentarios
 Autor: Juan David Meza Gonzalez
-Descripcion:Primer programapara analizar su estructura.
+Descripcion: Primer programa para analizar su estructura.
 Fecha: 2024-01-10
 */
 
 
-#include <iostream> //inclusiion de la libreria de entrada y salida
+#include <iostream> //inclusion de la libreria de entrada y salida
 using namespace std; // el uso del espacio el nombre para STD de la I/O
 int main () //Funcion pricipal para main para retornar un entero
 {
